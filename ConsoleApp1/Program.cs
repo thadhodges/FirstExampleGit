@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!, How are you doing?");
+            Console.WriteLine("What is next in this debate");
         }
     }
 }
