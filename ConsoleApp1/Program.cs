@@ -8,6 +8,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!, How are you doing?");
             Console.WriteLine("What is next in this debate");
+            var next = Console.ReadLine();
+            Console.WriteLine($"Your answer is {next}.");
+
         }
     }
 }
